@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @dimaaynurheraki
+- 👀 I’m interested in flutter ...
+- 🌱 I’m currently learning flutter and web developing...
+- 📫 How to reach me dimaaynurheraki@gmail.com ...
+
+<!---
+dimaaynurheraki/dimaaynurheraki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
